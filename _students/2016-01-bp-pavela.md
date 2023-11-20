@@ -2,7 +2,7 @@
 title: "Jiří Pavela: Library for Profiling of Data Structures of C/C++ Programs"
 collection: students
 type: "Bachelor's Thesis"
-permalink: /students/2016-01-pavela
+permalink: /students/2016-01-bp-pavela
 date: 2017-06-17
 ---
 
