@@ -9,32 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://tfiedor.github.io/files/cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor's degree in Computer and Information Science, Brno University of Technology, Faculty of Information Technologies, 2012
+* Masters's degree in Computer and Information Science, Brno University of Technology, Faculty of Information Technologies, 2014
+* Doctoral degree in Computer and Information Science, Brno University of Technology, Faculty of Information Technologies, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023--: Freelance Researcher
+  * Duties included: Performance Analysis.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020--Fall 2023: Postdoc Researcher
+  * Brno University of Technology, Faculty of Information Technologies.
+  * Duties included: Performance Analysis; Testing; Monitoring; Automata Theory.
+
+* Fall 2014--Fall 2020: Junior Researcher
+  * Brno University of Technology, Faculty of Information Technologies.
+  * Duties included: Performance Analysis; Automata Theory.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C++, C, Java, C#.
+* DevOps (continuous integration and deployment, integration testing, etc.)
+* Data Analysis (pandas, statistics, etc.).
+* Experienced Speaker (over ten presentations and seminaries).
+* Experienced Superviseor (over ten supervised students).
+* English Language (C2); German Language (A1); Japanese Language (A1).
 
 Publications
 ======
@@ -48,12 +51,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Projects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.projects%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
