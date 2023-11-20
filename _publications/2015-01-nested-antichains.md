@@ -6,7 +6,7 @@ excerpt: 'This paper is our initial work on deciding WS1S logic using non-determ
 automata'
 date: 2015-10-01
 venue: 'TACAS'
-paperurl: 'http://academicpages.github.io/files/2015-01-nested-antichains.pdf'
+paperurl: 'http://tfiedor.github.io/files/2015-01-nested-antichains.pdf'
 citation: "FIEDOR Tomáš, HOLÍK Lukáš, LENGÁL Ondřej and VOJNAR Tomáš. Nested Antichains for WS1S. In: Proceedings of TACAS'15. Lecture Notes in Computer Science, vol. 9035. Heidelberg: Springer Verlag, 2015, pp. 658-674. ISBN 978-3-662-46680-3."
 ---
 
@@ -23,5 +23,5 @@ one used by the so-called antichain algorithms for handling non-deterministic au
 obtained encouraging experimental results, in some cases outperforming MONA by several orders of
 magnitude.
 
-[Download paper here](http://academicpages.github.io/files/2015-01-nested-antichains.pdf)
+[Download paper here](http://tfiedor.github.io/files/2015-01-nested-antichains.pdf)
 Recommended citation: FIEDOR Tomáš, HOLÍK Lukáš, LENGÁL Ondřej and VOJNAR Tomáš. Nested Antichains for WS1S. In: Proceedings of TACAS\'15. Lecture Notes in Computer Science, vol. 9035. Heidelberg: Springer Verlag, 2015, pp. 658-674. ISBN 978-3-662-46680-3.
