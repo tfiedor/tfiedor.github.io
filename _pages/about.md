@@ -43,5 +43,8 @@ be alone with my thoughts). I like cooking (I imagine cooking is like OOP: there
 pattern in every recipe). I like games (tabletops and role-playing games) with good story or
 interesting gameplay. Naturally, I like sea lions.
 
+Note: This personal website is still work in progress. Some information might be incomplete, some
+links might be missing. I truly apologize for any inconviences caused by this.
+
 In the rest of this site I present more details about myself: publications that I have coauthored,
 students that I have (co)supervised, as well as projects that I have (co)developed.
