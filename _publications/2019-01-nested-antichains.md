@@ -5,20 +5,20 @@ permalink: /publication/2019-01-nested-antichains
 excerpt: "This is an extended journal version of our TACAS'15 paper"
 date: 2019-10-01
 venue: 'TACAS'
-paperurl: 'https://tfiedor.github.io/files/2019-01-nested-antichains.pdf'
+paperurl: 'https://tfiedor.github.io/files/pubs/2019-01-nested-antichains.pdf'
 doi: "https://doi.org/10.1007/s00236-018-0331-z"
 keywords: "ws1s logic, antichains, nondeterministic finite automata, decision procedure"
 gallery:
-  - url: pubs/2019-01-nested-antichains-gallery-1.jpg
-    image_path: pubs/2019-01-nested-antichains-gallery-1.jpg
+  - url: pubs/2019-01-nested-antichains-gallery-1.png
+    image_path: pubs/2019-01-nested-antichains-gallery-1.png
     alt: "results for strand benchmark"
     title: "Comparison of our approach (dWiNA) with state-of-the-art tool MONA on strand benchmark"
-  - url: pubs/2019-01-nested-antichains-gallery-2.jpg
-    image_path: pubs/2019-01-nested-antichains-gallery-2.jpg
+  - url: pubs/2019-01-nested-antichains-gallery-2.png
+    image_path: pubs/2019-01-nested-antichains-gallery-2.png
     alt: "results for HornSub benchmark"
     title: "Comparison of our approach (dWiNA) with state-of-the-art tool MONA on HornSub benchmark"
-  - url: pubs/2019-01-nested-antichains-gallery-3.jpg
-    image_path: pubs/2019-01-nested-antichains-gallery-3.jpg
+  - url: pubs/2019-01-nested-antichains-gallery-3.png
+    image_path: pubs/2019-01-nested-antichains-gallery-3.png
     alt: "results for parametric benchmark"
     title: "Comparison of our approach (dWiNA) with state-of-the-art tool MONA on parametric formulae. The notion of k depends on the family. The higher the k, the more complex the formula is."
 ---
@@ -30,7 +30,7 @@ gallery:
 
 This is an extended version of our paper [Nested antichains for WS1S](tfiedor.github.io/pubs/2015-01-nested-antichains).
 
-[<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i> Download paper here](https://tfiedor.github.io/files/2019-01-nested-antichains.pdf)
+[<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i> Download paper here](https://tfiedor.github.io/files/pubs/2019-01-nested-antichains.pdf)
 
 ## My contributions
 

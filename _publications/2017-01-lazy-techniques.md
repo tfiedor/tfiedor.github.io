@@ -5,24 +5,24 @@ permalink: /publication/2017-01-lazy-techniques
 excerpt: 'This paper is our follow-up work on deciding WS1S logic using non-deterministic finite automata'
 date: 2017-10-01
 venue: 'TACAS'
-paperurl: 'http://tfiedor.github.io/files/2017-01-lazy-techniques.pdf'
+paperurl: 'http://tfiedor.github.io/files/pubs/2017-01-lazy-techniques.pdf'
 doi: "https://doi.org/10.1007/978-3-662-54577-5_24"
 keywords: "nondeterministic finite automata, ws1s logic, lazy techniques, anti-chains, decision procedures"
 gallery:
-  - url: pubs/2017-01-lazy-gallery-1.jpg
-    image_path: pubs/2017-01-lazy-gallery-1.jpg
+  - url: pubs/2017-01-lazy-gallery-1.png
+    image_path: pubs/2017-01-lazy-gallery-1.png
     alt: "an example of lazy approach to deciding ws1s formulae"
     title: "An example of our approach, that determines whether the automaton is empty (resp. formula is invalid) on-the-fly exploiting lazy techniques."
-  - url: pubs/2017-01-lazy-gallery-2.jpg
-    image_path: pubs/2017-01-lazy-gallery-2.jpg
+  - url: pubs/2017-01-lazy-gallery-2.png
+    image_path: pubs/2017-01-lazy-gallery-2.png
     alt: "results of our tool Gaston on UABE benchmark"
     title: "Comparison of our tool Gaston with state-of-the-art tool MONA on UABE benchmark."
-  - url: pubs/2017-01-lazy-gallery-3.jpg
-    image_path: pubs/2017-01-lazy-gallery-3.jpg
+  - url: pubs/2017-01-lazy-gallery-3.png
+    image_path: pubs/2017-01-lazy-gallery-3.png
     alt: "results of our tool Gaston on Strand benchmark"
     title: "Comparison of our tool Gaston with state-of-the-art tool MONA on Strand benchmark."
-  - url: pubs/2017-01-lazy-gallery-4.jpg
-    image_path: pubs/2017-01-lazy-gallery-4.jpg
+  - url: pubs/2017-01-lazy-gallery-4.png
+    image_path: pubs/2017-01-lazy-gallery-4.png
     alt: "results of our tool Gaston on parametric benchmarks"
     title: "Comparison of our tool Gaston with state-of-the-art tools on parametric benchmarks."
 ---

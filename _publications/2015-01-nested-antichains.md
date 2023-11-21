@@ -5,16 +5,16 @@ permalink: /publication/2015-01-nested-antichains
 excerpt: 'This paper is our initial work on deciding WS1S logic using non-deterministic finite automata'
 date: 2015-10-01
 venue: 'TACAS'
-paperurl: 'http://tfiedor.github.io/files/2015-01-nested-antichains.pdf'
+paperurl: 'http://tfiedor.github.io/files/pubs/2015-01-nested-antichains.pdf'
 doi: "http://dx.doi.org/10.1007/978-3-662-46681-0_59"
 keywords: "nondeterministic finite automata, ws1s logic, anti-chains, decision procedures"
 gallery:
-  - url: pubs/2015-01-anti-gallery-1.jpg
-    image_path: pubs/2015-01-anti-gallery-1.jpg
+  - url: pubs/2015-01-anti-gallery-1.png
+    image_path: pubs/2015-01-anti-gallery-1.png
     alt: "an example of lazy approach to deciding ws1s formulae"
     title: "An example of our approach, that determines whether the automaton is empty (resp. formula is invalid) on-the-fly exploiting lazy techniques."
-  - url: pubs/2015-01-anti-gallery-2.jpg
-    image_path: pubs/2015-01-anti-gallery-2.jpg
+  - url: pubs/2015-01-anti-gallery-2.png
+    image_path: pubs/2015-01-anti-gallery-2.png
     alt: "results of our tool Gaston on UABE benchmark"
     title: "Comparison of our tool Gaston with state-of-the-art tool MONA on UABE benchmark."
 ---
