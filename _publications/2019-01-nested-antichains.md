@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-01-nested-antichains
 excerpt: "This is an extended journal version of our TACAS'15 paper"
 date: 2019-10-01
-venue: 'TACAS'
+venue: 'Acta Informatica'
 paperurl: 'https://tfiedor.github.io/files/pubs/2019-01-nested-antichains.pdf'
 doi: "https://doi.org/10.1007/s00236-018-0331-z"
 keywords: "ws1s logic, antichains, nondeterministic finite automata, decision procedure"
