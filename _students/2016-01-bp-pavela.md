@@ -3,8 +3,13 @@ title: "Jiří Pavela: Library for Profiling of Data Structures of C/C++ Program
 collection: students
 type: "Bachelor's Thesis"
 permalink: /students/2016-01-bp-pavela
-date: 2017-06-17
 ---
+
+The goal of this thesis was to create a time profiler of C/C++ programs together with tracking
+sizes of advanced data structures (such as linked lists or skip lists). 
+The collected data was postprocessed using regression analysis to infer mathematical
+models (which modeled runtime of functions based on sizes of underlying structures).
+The results were visualized using scatter plots.
 
 ## Abstract
 

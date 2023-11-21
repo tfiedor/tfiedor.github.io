@@ -3,11 +3,11 @@ title: "Milan Lysoňek: Existing Attacks on SSL/TLS Protocol"
 collection: students
 type: "Bachelor's Thesis"
 permalink: /students/2016-03-bp-lysonek
-date: 2017-06-17
 ---
 
-This thesis was supervised together with RedHat company; I served mainly as a formal superviser;
-technical consultant were Stanislav Židek and Hubert Kario.
+Disclaimer: This thesis was supervised together with RedHat company; I served mainly as a formal superviser;
+technical consultant were Stanislav Židek and Hubert Kario. The goal of the thesis was to extend the capabilities of
+testing attacks based on fuzztesting solved within the RedHat company.
 
 ## Abstract
 

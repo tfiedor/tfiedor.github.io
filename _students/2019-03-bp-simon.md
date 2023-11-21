@@ -3,11 +3,15 @@ title: "Šimon Stupinský: New Models for Automatic Detection of Performance Deg
 collection: students
 type: "Bachelors's Thesis"
 permalink: /students/2019-03-bp-simon
-date: 2020-06-16
 ---
 
-While this thesis was officialy supervised by Adam Rogalewicz (due some internal restrictions), I
-was the main supervisor of this whole thesis.
+Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
+was the main supervisor of this whole thesis. The goal of this thesis was to extend the capabilities of Perun with new
+models (besides so-far supported regression analysis) as well as new approaches to detect performance degradations in
+software.
+In particular, we come up with non-parametric models (models not dependent on other variables) such as regressograms,
+moving averages or kernel regressions; as well as methods for detecting performance issues based on integral computation
+or local statistics.
 
 ## Abstract
 

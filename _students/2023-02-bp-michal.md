@@ -5,8 +5,9 @@ type: "Bachelor's Thesis"
 permalink: /students/2023-01-bp-michal
 ---
 
-This thesis was mainly supervised by Ing. Jiří Pavela; I have served as additional technical
-consultant.
+Disclaimer: This thesis was mainly supervised by Ing. Jiří Pavela; I have served as additional technical
+consultant. The goal of this thesis was to experimentally try to measure the consumption of the energy of profiled
+programs.
 
 ## Abstract
 

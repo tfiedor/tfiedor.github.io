@@ -3,11 +3,12 @@ title: "Matúš Liščinský: Fuzz Testing of Program Performance"
 collection: students
 type: "Bachelors's Thesis"
 permalink: /students/2019-01-bp-matus
-date: 2020-06-16
 ---
 
-While this thesis was officialy supervised by Adam Rogalewicz (due some internal restrictions), I
-was the main supervisor of this whole thesis.
+Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
+was the main supervisor of this whole thesis. The goal of this thesis was to extend the notion of performance
+fuzztesting to more fine-tuned (custom) rules and more performance-based evaluation.
+The resulting fuzzer is part of Perun and provides new ideas (sadly unpublished).
 
 ## Abstract
 
