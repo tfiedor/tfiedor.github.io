@@ -7,7 +7,13 @@ date: 2017-10-01
 venue: 'TACAS'
 paperurl: 'http://tfiedor.github.io/files/pubs/2017-01-lazy-techniques.pdf'
 doi: "https://doi.org/10.1007/978-3-662-54577-5_24"
-keywords: "nondeterministic finite automata, ws1s logic, lazy techniques, anti-chains, decision procedures"
+citation: "FIEDOR Tomáš, HOLÍK Lukáš, JANKŮ Petr, LENGÁL Ondřej and VOJNAR Tomáš. Lazy Automata Techniques for WS1S. In: Proceedings of TACAS'17. Lecture Notes in Computer Science, vol. 10205. Heidelberg: Springer Verlag, 2017, pp. 407-425. ISBN 978-3-662-54576-8. ISSN 0302-9743."
+tags: 
+   - nondeterministic finite automata 
+   - ws1s logic 
+   - lazy techniques 
+   - anti-chains 
+   - decision procedures
 gallery:
   - url: pubs/2017-01-lazy-gallery-1.png
     image_path: pubs/2017-01-lazy-gallery-1.png

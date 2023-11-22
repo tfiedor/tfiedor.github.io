@@ -7,7 +7,12 @@ date: 2019-10-01
 venue: 'Acta Informatica'
 paperurl: 'https://tfiedor.github.io/files/pubs/2019-01-nested-antichains.pdf'
 doi: "https://doi.org/10.1007/s00236-018-0331-z"
-keywords: "ws1s logic, antichains, nondeterministic finite automata, decision procedure"
+citation: "FIEDOR Tomáš, HOLÍK Lukáš, LENGÁL Ondřej and VOJNAR Tomáš. Nested Antichains for WS1S. Acta Informatica, vol. 56, no. 3, 2019, pp. 205-228. ISSN 0001-5903."
+tags: 
+   - ws1s logic
+   - antichains 
+   - nondeterministic finite automata 
+   - decision procedures
 gallery:
   - url: pubs/2019-01-nested-antichains-gallery-1.png
     image_path: pubs/2019-01-nested-antichains-gallery-1.png

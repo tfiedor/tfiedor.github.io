@@ -7,7 +7,12 @@ date: 2015-10-01
 venue: 'TACAS'
 paperurl: 'http://tfiedor.github.io/files/pubs/2015-01-nested-antichains.pdf'
 doi: "http://dx.doi.org/10.1007/978-3-662-46681-0_59"
-keywords: "nondeterministic finite automata, ws1s logic, anti-chains, decision procedures"
+citation: "FIEDOR Tomáš, HOLÍK Lukáš, LENGÁL Ondřej and VOJNAR Tomáš. Nested Antichains for WS1S. In: Proceedings of TACAS'15. Lecture Notes in Computer Science, vol. 9035. Heidelberg: Springer Verlag, 2015, pp. 658-674. ISBN 978-3-662-46680-3."
+tags: 
+   - nondeterministic finite automata
+   - ws1s logic
+   - anti-chains 
+   - decision procedures
 gallery:
   - url: pubs/2015-01-anti-gallery-1.png
     image_path: pubs/2015-01-anti-gallery-1.png
