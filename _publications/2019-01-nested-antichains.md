@@ -6,6 +6,8 @@ excerpt: "This is an extended journal version of our TACAS'15 paper"
 date: 2019-10-01
 venue: 'Acta Informatica'
 paperurl: 'https://tfiedor.github.io/files/pubs/2019-01-nested-antichains.pdf'
+website: "https://www.fit.vutbr.cz/research/groups/verifit/tools/dWiNA"
+github: "https://github.com/tfiedor/dWiNA"
 doi: "https://doi.org/10.1007/s00236-018-0331-z"
 citation: "FIEDOR Tomáš, HOLÍK Lukáš, LENGÁL Ondřej and VOJNAR Tomáš. Nested Antichains for WS1S. Acta Informatica, vol. 56, no. 3, 2019, pp. 205-228. ISSN 0001-5903."
 tags: 
