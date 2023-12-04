@@ -68,6 +68,9 @@
     {% if post.github %}
     <a href=" {{ post.github }} "><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     {% endif %}
+    {% if post.pypi%}
+    <a href=" {{ post.pypi}} "><i class="fab fa-fw fa-python zoom" aria-hidden="true"></i></a>
+    {% endif %}
     {% if post.website %}
     <a href=" {{ post.website }} "><i class="fas fa-fw fa-home zoom" aria-hidden="true"></i></a>
     {% endif %}
