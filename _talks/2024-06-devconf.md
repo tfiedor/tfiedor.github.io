@@ -11,7 +11,7 @@ location: "Brno, Czech Republic"
 This was an accepted talk at DevConf'24 and presented cooperation between BUT FIT (mainly by me and
 my colleague Jirka Pavela) with RedHat (Kernel Performance Team led by Jirka Hladký).
 
-[<i class="fa fa-youtube-play zoom" aria-hidden="true"></i> Watch the talk here](https://www.youtube.com/watch?v=Ni28iexr0mg)
+[<i class="fa-brands fa-youtube"></i> Watch the talk here](https://www.youtube.com/watch?v=Ni28iexr0mg)
 
 ## Abstract
 
