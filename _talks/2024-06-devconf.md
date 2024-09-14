@@ -8,10 +8,10 @@ date: 2024-06-27
 location: "Brno, Czech Republic"
 ---
 
-[<i class="fas fa-fw fa-youtube-play zoom" aria-hidden="true"></i> Watch the talk here](https://www.youtube.com/watch?v=Ni28iexr0mg)
-
 This was an accepted talk at DevConf'24 and presented cooperation between BUT FIT (mainly by me and
 my colleague Jirka Pavela) with RedHat (Kernel Performance Team led by Jirka Hladký).
+
+[<i class="fa fa-youtube-play zoom" aria-hidden="true"></i> Watch the talk here](https://www.youtube.com/watch?v=Ni28iexr0mg)
 
 ## Abstract
 
