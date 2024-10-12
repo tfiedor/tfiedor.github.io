@@ -7,6 +7,7 @@ sizes of advanced data structures (such as linked lists or skip lists).
 The collected data was postprocessed using regression analysis to infer mathematical
 models (which modeled runtime of functions based on sizes of underlying structures).
 The results were visualized using scatter plots.'
+paperurl: 'http://tfiedor.github.io/files/thesis/pavela-bp.pdf'
 
 permalink: /students/2016-01-bp-pavela
 tags: 
