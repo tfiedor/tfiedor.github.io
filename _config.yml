@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tomáš Fiedor"
   avatar           : "profile.png"
-  bio              : "Performance Analysis Researcher"
+  bio              : "Software Performance Analysis & Testing Fellow"
   location         : "Brno, Czech Republic"
-  employer         :
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cz/citations?user=YFvJ4ksAAAAJ"
   email            : "TomasFiedor@gmail.com"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/tomáš-fiedor-b81b1a138"
+  orcid            : "https://orcid.org/0009-0009-2596-9399"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
