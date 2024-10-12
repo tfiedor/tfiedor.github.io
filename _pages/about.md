@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-For the past ten years I have been part of the academic research. In particular, I studied the
+For the about ten years I have been part of the academic research. In particular, I studied the
 field of formal analysis and verification, with focus on performance analysis, automatic complexity
 analysis and basic formal theory (mainly regarding automata theory). During these years, I have
 implemented (or have been part of the development) of many tools ranging from efficient decisions
 procedures (Gaston, dWiNA), automata libraries (libmata), performance analysis tool suite (Perun), to
 some minor products (perfaide, looper, etc.) that were part of research projects.
+
+I have been part of the kernel performance analysis (a cooperation between FIT BUT and RedHat
+Kernel Performance Team), where I have focused on analysis of different pair of kernel versions,
+and effective visualization of their performance differences. Currently, I am a part of GraalVM
+Performance Analysis Team and I focus on performance benchmarking and analysis of various parts of
+the project.
 
 If I had to list three things that I value about myself, I would say I am:
 
@@ -42,9 +48,6 @@ and technology) and japanese manga. I like walking, working out and swimming (an
 be alone with my thoughts). I like cooking (I imagine cooking is like OOP: there is a design
 pattern in every recipe). I like games (tabletops and role-playing games) with good story or
 interesting gameplay. Naturally, I like sea lions.
-
-Note: This personal website is still work in progress. Some information might be incomplete, some
-links might be missing. I truly apologize for any inconviences caused by this.
 
 In the rest of this site I present more details about myself: publications that I have coauthored,
 students that I have (co)supervised, as well as projects that I have (co)developed.
