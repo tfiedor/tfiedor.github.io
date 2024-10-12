@@ -3,7 +3,25 @@ title: "Peter Močáry: Performance Analysis of Programs Based on PIN Framework"
 collection: students
 type: "Bachelor's Thesis"
 permalink: /students/2022-01-bp-mocary
+excerpt: "Disclaimer: This thesis was mainly supervised by Ing. Jiří Pavela; I have served as additional technical
+consultant. The goal of this thesis was to extend our `trace` profiler with support for PIN framework.
+This would allow us to overcome some of the limitations of our current underlying instrumentation frameworks (eBPF and
+SystemTap)."
+paperurl: 'http://tfiedor.github.io/files/thesis/peter-bp.pdf'
+tags:
+  - PIN
+  - profiling
+  - basic block analysis
+gallery:
+  - url: students/peter-bp-1.JPG
+    image_path: students/peter-bp-1.JPG
+    alt: "an example comparison of two function on basic block granularity"
+    title: "An example comparison of two function on basic block granularity."
 ---
+|                      |                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Thesis Detail        | [Institution site](https://www.vut.cz/studenti/zav-prace/detail/145076) |
+| Thesis Download      | [Thesis Download](https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=244756) |
 
 Disclaimer: This thesis was mainly supervised by Ing. Jiří Pavela; I have served as additional technical
 consultant. The goal of this thesis was to extend our `trace` profiler with support for PIN framework.
@@ -22,3 +40,5 @@ process. The resulting engine was tested on multiple implementations of sorting 
 most time consuming functions along with the information about the effect of its parameter value on the functions
 complexity. Testing the PIN engine on a larger-scale project revealed that, in comparison to other Tracer engine
 implementations, the engine performs better or comparably, and produces the correct output.
+
+{% include gallery %}

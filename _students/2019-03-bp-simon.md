@@ -2,8 +2,31 @@
 title: "Šimon Stupinský: New Models for Automatic Detection of Performance Degradation"
 collection: students
 type: "Bachelors's Thesis"
+excerpt: "Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
+was the main supervisor of this whole thesis. The goal of this thesis was to extend the capabilities of Perun with new
+models (besides so-far supported regression analysis) as well as new approaches to detect performance degradations in
+software.
+In particular, we come up with non-parametric models (models not dependent on other variables) such as regressograms,
+moving averages or kernel regressions; as well as methods for detecting performance issues based on integral computation
+or local statistics."
 permalink: /students/2019-03-bp-simon
+paperurl: 'http://tfiedor.github.io/files/thesis/simon-bp.pdf'
+tag:
+  - perun
+  - performance modelling
+  - performance regression analysis
+gallery:
+  - url: students/simon-bp-1.JPG
+    image_path: students/simon-bp-1.JPG
+    alt: "results of comparing two versions of vim"
+    title: "Results of comparing two versions of vim."
 ---
+
+|                      |                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Thesis Detail        | [Institution site](https://www.vut.cz/studenti/zav-prace/detail/122230) |
+| Thesis Download      | [Thesis Download](https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=198270) |
+
 
 Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
 was the main supervisor of this whole thesis. The goal of this thesis was to extend the capabilities of Perun with new
@@ -30,3 +53,5 @@ about two-thirds and an almost triple improvement in the fitness of data modelli
 modelling approaches. The proposed detection methods detected performance degradation of three
 specific functions in comparison of two different versions of Vim, where was present a known
 performance issue.
+
+{% include gallery %}

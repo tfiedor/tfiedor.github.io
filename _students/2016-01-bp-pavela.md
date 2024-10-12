@@ -23,6 +23,7 @@ gallery:
     alt: "a visualization of differences of sorting algorithms based on the size of the input"
     title: "A visualization of differences of sorting algorithms based on the size of the input"
 ---
+
 |                      |                                                                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Thesis Detail        | [Institution site](https://www.vut.cz/studenti/zav-prace/detail/106436) |

@@ -2,7 +2,7 @@
 title: "Radim Podola: Library for Profiling and Visualization of Memory Consumption of C/C++ Programs"
 collection: students
 type: "Bachelor's Thesis"
-exceprt='The goal of this thesis was to create a memory profiler of C/C++. The results were interpretered using several kinds of
+excerpt: 'The goal of this thesis was to create a memory profiler of C/C++. The results were interpretered using several kinds of
 visualizations: (1) heat maps (both in GUI and in CLI using `ncurses` library), and (2) flamegraphs.'
 permalink: /students/2016-02-bp-podola
 paperurl: 'http://tfiedor.github.io/files/thesis/podola-bp.pdf'
@@ -22,6 +22,7 @@ gallery:
     alt: "a visualization of heat map: showing which addresses were mostly allocated on."
     title: "A visualization of heat map: showing which addresses were mostly allocated on."
 ---
+
 |                      |                                                                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Thesis Detail        | [Institution site](https://www.vut.cz/studenti/zav-prace/detail/106155) |
@@ -40,3 +41,5 @@ Thesis briefly introduces existing tools dealing with similar problems and then 
 of profiling data and their illustrative interpretation. The resulting implementation is, moreover, integrated in the
 Perun --- Performance Control System --- platform for profile versioning. The functionality of the implementation is
 demonstrated on a series of non-trivial programs.
+
+{% include gallery %}

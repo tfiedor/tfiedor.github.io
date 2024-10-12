@@ -3,7 +3,26 @@ title: "Matúš Liščinský: Fuzz Testing of Program Performance"
 collection: students
 type: "Bachelors's Thesis"
 permalink: /students/2019-01-bp-matus
+excerpt: 'Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
+was the main supervisor of this whole thesis. The goal of this thesis was to extend the notion of performance
+fuzztesting to more fine-tuned (custom) rules and more performance-based evaluation.
+The resulting fuzzer is part of Perun and provides new ideas (sadly unpublished).'
+paperurl: 'http://tfiedor.github.io/files/thesis/matus-bp.pdf'
+tags:
+  - perun
+  - performance fuzzing
+  - fuzzing
+gallery:
+  - url: students/matus-bp-1.JPG
+    image_path: students/matus-bp-1.JPG
+    alt: "an example result of performance fuzzing for program demonstrating ReDoS attack"
+    alt: "An example result of performance fuzzing for program demonstrating ReDoS attack."
 ---
+
+|                      |                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Thesis Detail        | [Institution site](https://www.vut.cz/studenti/zav-prace/detail/121838) |
+| Thesis Download      | [Thesis Download](https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=197106) |
 
 Disclaimer: While this thesis was officially supervised by Adam Rogalewicz (due some internal restrictions), I
 was the main supervisor of this whole thesis. The goal of this thesis was to extend the notion of performance
@@ -25,3 +44,5 @@ memory. We tested our fuzzer on several artificial projects, which shows its pot
 generated inputs that prolong the runtime of the program. Such a solution would allow developers to
 regularly test every version of a project for performance bugs and avoid them completely by
 automatically finding new exhausting inputs before release.
+
+{% include gallery %}
