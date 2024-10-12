@@ -5,7 +5,7 @@ type: "Bachelor's Thesis"
 permalink: /students/2023-01-bp-hajek
 excerpt: "Disclaimer: This thesis was mainly supervised by Ing. Jiří Pavela; I have served as additional technical
 consultant. The goal of this thesis was to extend our profilers with profiler for programs written in C#, potentially
-extending our support for Windows (sub)systems. The results were interpreted using tree-like views similar to outputs"
+extending our support for Windows (sub)systems. The results were interpreted using tree-like views similar to outputs of `kcachegrind`."
 paperurl: 'http://tfiedor.github.io/files/thesis/vojta-bp.pdf'
 tags:
   - perun
@@ -20,7 +20,6 @@ gallery:
     title: "A visualization of allocated objects in time as scatter plot."
 
 
-of `kcachegrind`.
 ---
 
 |                      |                                                                                                                                     |
