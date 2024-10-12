@@ -19,8 +19,12 @@ Education
 
 Work experience
 ======
-* Fall 2023--: Freelance Researcher
-  * Duties included: Performance Analysis.
+* Fall 2024--: Software Developer
+  * Oracle, GraalVM
+  * Duties included: Performance Analysis, Performance Benchmarking.
+
+* Fall 2023--Fall 2024: Freelance Researcher & Research Contractor
+  * Duties included: Performance Analysis, Kernel Analysis
 
 * Fall 2020--Fall 2023: Postdoc Researcher
   * Brno University of Technology, Faculty of Information Technologies.
@@ -40,7 +44,7 @@ Skills
 * English Language (C2); German Language (A1); Japanese Language (A1).
 
 Publications
-======
+============
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -51,8 +55,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Projects
-======
+Main Projects
+=============
   <ul>{% for post in site.projects%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

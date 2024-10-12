@@ -2,8 +2,30 @@
 title: "Jiří Pavela: Library for Profiling of Data Structures of C/C++ Programs"
 collection: students
 type: "Bachelor's Thesis"
+project: Perun
+language: Czech
+excerpt: 'Jirka has developed an experimental profiler that collected (1) runtimes of functions,
+and (2) sizes of underlying data structure. He further analysed the results using regression
+analysis and interpreted them as a scatter plots.'
 permalink: /students/2016-01-bp-pavela
+tags: 
+  - perun
+  - performance testing
+  - regression analysis
+gallery:
+  - url: students/pavela-bp-1.jpg
+    image_path: students/pavela-bp-1.jpg
+    alt: "a visualization of performance of red black trees based on their size"
+    title: "A visualization of performance of red black trees based on their size"
+  - url: students/pavela-bp-2.jpg
+    image_path: students/pavela-bp-2.jpg
+    alt: "a visualization of differences of sorting algorithms based on the size of the input"
+    title: "A visualization of differences of sorting algorithms based on the size of the input"
 ---
+|                      |                                                                                                                                     |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Thesis Detail        | https://www.vut.cz/studenti/zav-prace/detail/106436 |
+| Thesis Download      | https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=159417 |
 
 The goal of this thesis was to create a time profiler of C/C++ programs together with tracking
 sizes of advanced data structures (such as linked lists or skip lists). 
@@ -24,3 +46,4 @@ accurate model serving as an estimate of algorithmic complexity. The resulting p
 subjected to a series of experiments that evaluate the accuracy of the results, demonstrate
 practical uses and illustrate the graphical output of the tool.
 
+{% include galler %}
