@@ -46,4 +46,4 @@ accurate model serving as an estimate of algorithmic complexity. The resulting p
 subjected to a series of experiments that evaluate the accuracy of the results, demonstrate
 practical uses and illustrate the graphical output of the tool.
 
-{% include galler %}
+{% include gallery %}
