@@ -76,7 +76,7 @@
     {% endif %}
     </p>
 
-    {% if post.collection == 'publications' and post.tags %}
+    {% if post.tags %}
       {% assign path_type = "#" %}
       {% capture page_tags %}{% for tag in post.tags %}{{ tag | downcase }}#{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
       {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
